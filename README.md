@@ -2,5 +2,5 @@
 The Motor Bike Data Engineering Project involved preprocessing, feature engineering, and analysis of a motor bike dataset, resulting in valuable insights presented through a Looker dashboard
 # Flow chart 
 ![Steps](Blank_board.jpeg)
-# Flow chart 
+# Data model
 ![Model](Bike_model_dataset.jpeg)
