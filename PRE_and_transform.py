@@ -1,8 +1,6 @@
 import re
 import numpy as np
 import pandas as pd
-from google.cloud import bigquery
-from google.oauth2 import service_account
 import io
 import requests
 
