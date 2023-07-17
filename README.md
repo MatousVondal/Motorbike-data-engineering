@@ -4,3 +4,5 @@ The Motor Bike Data Engineering Project involved preprocessing, feature engineer
 ![Steps](Blank_board.jpeg)
 # Data model
 ![Model](model.png)
+# looker studio Dashboard
+https://lookerstudio.google.com/s/tlEk695fFqM
