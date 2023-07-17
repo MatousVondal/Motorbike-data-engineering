@@ -3,4 +3,4 @@ The Motor Bike Data Engineering Project involved preprocessing, feature engineer
 # Flow chart 
 ![Steps](Blank_board.jpeg)
 # Data model
-![Model](Bike_model_dataset.jpeg)
+![Model](model.jpeg)
