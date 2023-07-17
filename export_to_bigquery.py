@@ -17,7 +17,7 @@ credentials = service_account.Credentials.from_service_account_file(
 # Construct a BigQuery client object.
 client = bigquery.Client(credentials=credentials,project=project_id)
 
-
+# data are in JSON
 for key, value in data.items():
     table_id = "{}.{}.{}".format(project_id, dataset_id, key)
 
