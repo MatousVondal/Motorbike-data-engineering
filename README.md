@@ -51,3 +51,6 @@ You can access the Looker Studio dashboard [here](https://lookerstudio.google.co
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+matousvondal@icloud.com
+LinkeIn: [here](https://www.linkedin.com/in/matouš-vondál/).
