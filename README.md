@@ -44,7 +44,7 @@ The cleaned and transformed data has been exported to BigQuery on Google Cloud. 
 
 ## Looker Studio Dashboard
 
-The Looker Studio dashboard showcases the insights gained from the analysis. It offers a user-friendly interface to explore visualizations and discover patterns, trends, and correlations within the motorbike dataset.
+The Looker Studio dashboard showcases the insights gained from the analysis. It offers a user-friendly interface to explore visualizations and discover patterns and trends within the motorbike dataset.
 
 You can access the Looker Studio dashboard [here](https://lookerstudio.google.com/s/tlEk695fFqM).
 
