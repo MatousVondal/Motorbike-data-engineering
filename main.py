@@ -1,7 +1,7 @@
 import pandas as pd
 import io
 import requests
-from export import bigquery_upload
+from load import bigquery_upload
 from cleaning import cleaning_and_transform
 
 # Path to the CSV file
